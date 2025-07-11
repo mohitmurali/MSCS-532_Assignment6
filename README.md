@@ -4,7 +4,7 @@
 This repository contains the solution to Assignment 6, implementing selection algorithms and elementary data structures in Python, along with a detailed report.
 
 ## Repository Structure
-- `assignment_6_solution.py`: Python code for all implementations and tests.
+- `selection_and_structures.py`: Python code for all implementations and tests.
 - `report.md`: Detailed report with implementation, analysis, and discussion.
 - `README.md`: This file.
 
